@@ -10,3 +10,6 @@ Got to know about the figma tools
 
 Date: 29.02.24
 Learned how to work in figma 
+
+Date: 1.02.24
+Learned about plugins and how to add icons in figma 
